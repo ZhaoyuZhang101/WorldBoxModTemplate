@@ -1,0 +1,16 @@
+{
+    "ModLayer": "自定义层级",
+    "ModLayerWindowTitle": "",
+    
+    "create_mod_layer": "创建层级",
+    "create_mod_layer_description": "创建层级描述",
+    
+    "add_mod_layer": "添加层级",
+    "add_mod_layer_description": "添加城市到层级",
+    
+    "remove_mod_layer": "移除层级中城市",
+    "remove_mod_layer_description": "移除层级中城市描述",
+    
+    "map_mod_layer_layer": "开关自定义层级",
+    "map_mod_layer_layer_description": "开关自定义层级描述"
+}

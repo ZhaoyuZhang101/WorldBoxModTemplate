@@ -1,0 +1,8 @@
+{
+    "name": "ModTemplate(预设模组模板)",
+    "author": "长明火_CHM",
+    "version": "0.0.1",
+    "description": "这是一个通用模组模板。提供了一套完整的path，扩展数据，存档逻辑以及自定义层级，和UI模板。",
+    "RepoUrl": "https://github.com/ZhaoyuZhang101/EmpireCraft",
+    "iconPath": "icon.png"
+}
